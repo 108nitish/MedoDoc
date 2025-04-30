@@ -1,0 +1,51 @@
+{
+  "Skin": {
+    "General": ["itching", "skin_rash", "nodal_skin_eruptions"],
+    "Mucosal": ["ulcers_on_tongue", "patches_in_throat"],
+    "Pigmentation": ["yellowish_skin", "dischromic_patches"],
+    "Nails": ["small_dents_in_nails", "inflammatory_nails", "brittle_nails"],
+    "Specific Conditions": ["red_sore_around_nose", "yellow_crust_ooze", "puffy_face_and_eyes"],
+    "Others": ["bruising", "swollen_legs", "swollen_extremeties", "drying_and_tingling_lips", "red_spots_over_body", "skin_peeling", "silver_like_dusting", "blister"]
+  },
+  "Respiratory": {
+    "Upper Respiratory": ["continuous_sneezing", "throat_irritation", "sinus_pressure", "runny_nose", "congestion"],
+    "Lower Respiratory": ["cough", "high_fever", "breathlessness", "phlegm", "mucoid_sputum", "rusty_sputum", "blood_in_sputum"],
+    "Eyes": ["redness_of_eyes", "watering_from_eyes"]
+  },
+  "Digestive": {
+    "Stomach and Intestines": ["stomach_pain", "acidity", "vomiting", "constipation", "abdominal_pain", "diarrhoea", "belly_pain", "indigestion", "stomach_bleeding", "distention_of_abdomen"],
+    "Liver": ["yellow_urine", "yellowing_of_eyes", "acute_liver_failure", "fluid_overload", "swelling_of_stomach"],
+    "General Symptoms": ["dark_urine", "nausea", "loss_of_appetite", "pain_behind_the_eyes", "back_pain", "internal_itching", "passage_of_gases"]
+  },
+  "Musculoskeletal": {
+    "Joint and Muscle Pain": ["joint_pain", "muscle_pain", "knee_pain", "hip_joint_pain", "muscle_weakness"],
+    "Stiffness and Swelling": ["stiff_neck", "swelling_joints", "movement_stiffness"],
+    "General Weakness": ["weakness_in_limbs", "painful_walking", "muscle_wasting"]
+  },
+  "Neurological": {
+    "Psychological": ["anxiety", "mood_swings", "restlessness", "lethargy", "irritability", "depression"],
+    "Sensory": ["dizziness", "cramps", "spinning_movements", "loss_of_balance", "unsteadiness", "weakness_of_one_body_side", "slurred_speech", "lack_of_concentration", "visual_disturbances", "blurred_and_distorted_vision"],
+    "Serious Conditions": ["coma", "altered_sensorium"]
+  },
+  "General": {
+    "Vital Signs": ["high_fever", "mild_fever", "sweating"],
+    "Energy Levels": ["fatigue", "weakness_in_limbs", "restlessness", "lethargy", "malaise"],
+    "Weight": ["weight_gain", "weight_loss", "obesity"],
+    "Others": ["shivering", "chills", "dehydration", "irregular_sugar_level", "headache", "enlarged_thyroid", "fluid_overload", "family_history", "history_of_alcohol_consumption", "receiving_blood_transfusion", "receiving_unsterile_injections", "toxic_look_(typhos)", "palpitations", "prominent_veins_on_calf"]
+  },
+  "Urinary": {
+    "Symptoms": ["burning_micturition", "spotting_urination", "foul_smell_of_urine", "continuous_feel_of_urine", "bladder_discomfort", "yellow_urine", "dark_urine", "polyuria"]
+  },
+  "Reproductive": {
+    "Female": ["abnormal_menstruation"],
+    "General": ["extra_marital_contacts"]
+  },
+  "Gastrointestinal": {
+    "Anal/Rectal": ["pain_during_bowel_movements", "pain_in_anal_region", "bloody_stool", "irritation_in_anus"]
+  },
+  "Other": {
+    "Appetite": ["increased_appetite"],
+    "Pain": ["neck_pain"],
+    "Nails": ["blackheads", "scurring"]
+  }
+}

@@ -1,0 +1,325 @@
+{
+    "Fungal infection": {
+      "precautions": [
+        "Keep the affected area clean and dry.",
+        "Avoid sharing personal items such as towels or clothing.",
+        "Wear breathable, loose-fitting clothing.",
+        "Use antifungal medications as prescribed."
+      ]
+    },
+    "Allergy": {
+      "precautions": [
+        "Identify and avoid known allergens.",
+        "Keep windows closed during high pollen seasons.",
+        "Use air purifiers and clean air filters regularly.",
+        "Take antihistamines or other allergy medications as needed."
+      ]
+    },
+    "GERD": {
+      "precautions": [
+        "Avoid foods and drinks that trigger reflux (e.g., spicy foods, alcohol, caffeine).",
+        "Eat smaller, more frequent meals.",
+        "Do not lie down immediately after eating.",
+        "Maintain a healthy weight."
+      ]
+    },
+    "Chronic cholestasis": {
+      "precautions": [
+        "Avoid alcohol and hepatotoxic drugs.",
+        "Follow a low-fat diet to reduce bile production.",
+        "Use medications as prescribed to manage symptoms and bile flow."
+      ]
+    },
+    "Drug Reaction": {
+      "precautions": [
+        "Inform healthcare providers of all medications and supplements being taken.",
+        "Monitor for signs of adverse reactions, especially when starting a new medication.",
+        "Report any unusual symptoms to a healthcare provider immediately."
+      ]
+    },
+    "Peptic ulcer disease": {
+      "precautions": [
+        "Avoid NSAIDs and aspirin unless directed by a doctor.",
+        "Limit alcohol intake and avoid smoking.",
+        "Eat a balanced diet and avoid foods that irritate the stomach.",
+        "Take prescribed medications to reduce stomach acid."
+      ]
+    },
+    "AIDS": {
+      "precautions": [
+        "Practice safe sex using condoms.",
+        "Do not share needles or syringes.",
+        "Take antiretroviral medications as prescribed.",
+        "Get regular medical check-ups and vaccinations."
+      ]
+    },
+    "Diabetes": {
+      "precautions": [
+        "Monitor blood glucose levels regularly.",
+        "Follow a balanced diet and exercise regimen.",
+        "Take medications or insulin as prescribed.",
+        "Have regular medical check-ups."
+      ]
+    },
+    "Gastroenteritis": {
+      "precautions": [
+        "Maintain good hand hygiene.",
+        "Avoid contaminated food and water.",
+        "Stay hydrated.",
+        "Isolate infected individuals to prevent the spread of infection."
+      ]
+    },
+    "Bronchial Asthma": {
+      "precautions": [
+        "Avoid known triggers such as allergens and smoke.",
+        "Use asthma medications and inhalers as prescribed.",
+        "Maintain regular medical check-ups.",
+        "Follow an asthma action plan."
+      ]
+    },
+    "Hypertension": {
+      "precautions": [
+        "Monitor blood pressure regularly.",
+        "Maintain a healthy diet low in sodium.",
+        "Exercise regularly.",
+        "Take prescribed medications."
+      ]
+    },
+    "Migraine": {
+      "precautions": [
+        "Identify and avoid known triggers.",
+        "Maintain a regular sleep schedule.",
+        "Stay hydrated.",
+        "Take medications as prescribed."
+      ]
+    },
+    "Cervical spondylosis": {
+      "precautions": [
+        "Maintain good posture.",
+        "Exercise regularly to strengthen neck muscles.",
+        "Use ergonomic furniture.",
+        "Take pain relievers and other medications as prescribed."
+      ]
+    },
+    "Paralysis (brain hemorrhage)": {
+      "precautions": [
+        "Monitor blood pressure regularly.",
+        "Avoid activities that increase the risk of head injury.",
+        "Take medications to manage risk factors such as hypertension.",
+        "Seek immediate medical attention if symptoms of stroke occur."
+      ]
+    },
+    "Jaundice": {
+      "precautions": [
+        "Avoid alcohol and hepatotoxic drugs.",
+        "Follow a healthy diet.",
+        "Treat underlying conditions that cause jaundice.",
+        "Get regular medical check-ups."
+      ]
+    },
+    "Malaria": {
+      "precautions": [
+        "Use insect repellent and bed nets.",
+        "Take antimalarial medications as prescribed when traveling to endemic areas.",
+        "Avoid mosquito bites by wearing long sleeves and pants.",
+        "Seek medical attention if symptoms develop."
+      ]
+    },
+    "Chicken pox": {
+      "precautions": [
+        "Get vaccinated against chickenpox.",
+        "Avoid contact with infected individuals.",
+        "Practice good hygiene.",
+        "Isolate infected individuals to prevent spread."
+      ]
+    },
+    "Dengue": {
+      "precautions": [
+        "Use insect repellent and bed nets.",
+        "Avoid mosquito bites by wearing long sleeves and pants.",
+        "Eliminate standing water where mosquitoes breed.",
+        "Seek medical attention if symptoms develop."
+      ]
+    },
+    "Typhoid": {
+      "precautions": [
+        "Ensure safe drinking water and proper sanitation.",
+        "Get vaccinated against typhoid.",
+        "Avoid risky foods and drinks, especially in endemic areas.",
+        "Practice good hygiene."
+      ]
+    },
+    "Hepatitis A": {
+      "precautions": [
+        "Get vaccinated against hepatitis A.",
+        "Ensure safe drinking water and proper sanitation.",
+        "Avoid risky foods and drinks, especially in endemic areas.",
+        "Practice good hygiene."
+      ]
+    },
+    "Hepatitis B": {
+      "precautions": [
+        "Get vaccinated against hepatitis B.",
+        "Practice safe sex using condoms.",
+        "Avoid sharing needles or syringes.",
+        "Avoid alcohol and hepatotoxic drugs."
+      ]
+    },
+    "Hepatitis C": {
+      "precautions": [
+        "Avoid sharing needles or syringes.",
+        "Practice safe sex using condoms.",
+        "Avoid alcohol and hepatotoxic drugs.",
+        "Get regular medical check-ups."
+      ]
+    },
+    "Hepatitis D": {
+      "precautions": [
+        "Get vaccinated against hepatitis B to prevent hepatitis D.",
+        "Avoid sharing needles or syringes.",
+        "Practice safe sex using condoms.",
+        "Avoid alcohol and hepatotoxic drugs."
+      ]
+    },
+    "Hepatitis E": {
+      "precautions": [
+        "Ensure safe drinking water and proper sanitation.",
+        "Avoid risky foods and drinks, especially in endemic areas.",
+        "Practice good hygiene.",
+        "Avoid alcohol and hepatotoxic drugs."
+      ]
+    },
+    "Alcoholic hepatitis": {
+      "precautions": [
+        "Avoid alcohol consumption.",
+        "Follow a balanced diet.",
+        "Get regular medical check-ups.",
+        "Take prescribed medications to manage symptoms."
+      ]
+    },
+    "Tuberculosis": {
+      "precautions": [
+        "Cover mouth when coughing or sneezing.",
+        "Ensure good ventilation.",
+        "Take prescribed medications for the full duration.",
+        "Avoid close contact with others until no longer contagious."
+      ]
+    },
+    "Common Cold": {
+      "precautions": [
+        "Practice good hand hygiene.",
+        "Avoid close contact with infected individuals.",
+        "Cover mouth when coughing or sneezing.",
+        "Stay hydrated and rest"
+    ]
+},
+"Pneumonia": {
+  "precautions": [
+    "Get vaccinated against pneumococcal pneumonia and flu.",
+    "Practice good hand hygiene.",
+    "Avoid smoking and secondhand smoke.",
+    "Seek medical attention if symptoms develop."
+  ]
+},
+"Dimorphic hemorrhoids (piles)": {
+  "precautions": [
+    "Avoid straining during bowel movements.",
+    "Maintain a high-fiber diet.",
+    "Stay hydrated.",
+    "Use over-the-counter treatments as needed."
+  ]
+},
+"Heart attack": {
+  "precautions": [
+    "Monitor and manage blood pressure, cholesterol, and diabetes.",
+    "Maintain a healthy diet and exercise regularly.",
+    "Avoid smoking and excessive alcohol consumption.",
+    "Take prescribed medications."
+  ]
+},
+"Varicose veins": {
+  "precautions": [
+    "Avoid standing or sitting for long periods.",
+    "Exercise regularly.",
+    "Elevate legs when resting.",
+    "Wear compression stockings if recommended."
+  ]
+},
+"Hypothyroidism": {
+  "precautions": [
+    "Take thyroid hormone replacement as prescribed.",
+    "Have regular blood tests to monitor thyroid levels.",
+    "Maintain a balanced diet.",
+    "Exercise regularly."
+  ]
+},
+"Hyperthyroidism": {
+  "precautions": [
+    "Take antithyroid medications as prescribed.",
+    "Avoid iodine-rich foods.",
+    "Have regular blood tests to monitor thyroid levels.",
+    "Manage stress."
+  ]
+},
+"Hypoglycemia": {
+  "precautions": [
+    "Eat regular, balanced meals and snacks.",
+    "Monitor blood sugar levels regularly.",
+    "Carry a source of fast-acting sugar.",
+    "Take prescribed medications."
+  ]
+},
+"Osteoarthritis": {
+  "precautions": [
+    "Maintain a healthy weight.",
+    "Exercise regularly to strengthen muscles around joints.",
+    "Use assistive devices as needed.",
+    "Take pain relievers and other medications as prescribed."
+  ]
+},
+"Arthritis": {
+  "precautions": [
+    "Maintain a healthy weight.",
+    "Exercise regularly to improve joint flexibility.",
+    "Use hot and cold treatments to manage pain.",
+    "Take prescribed medications."
+  ]
+},
+"Vertigo (Paroxysmal Positional Vertigo)": {
+  "precautions": [
+    "Avoid sudden head movements.",
+    "Perform exercises to improve balance.",
+    "Stay hydrated.",
+    "Take prescribed medications."
+  ]
+},
+"Acne": {
+  "precautions": [
+    "Cleanse skin gently and regularly.",
+    "Avoid picking or squeezing pimples."
+  ]
+},
+"Urinary tract infection": {
+  "precautions": [
+    "Drink plenty of water to flush out bacteria.",
+    "Wipe from front to back after using the toilet.",
+    "Avoid using irritating feminine products."
+  ]
+},
+"Psoriasis": {
+  "precautions": [
+    "Keep skin moisturized.",
+    "Avoid triggers such as stress, smoking, and heavy alcohol consumption.",
+    "Use medication as prescribed by a doctor.",
+    "Follow a healthy diet and lifestyle."
+  ]
+},
+"Impetigo": {
+  "precautions": [
+    "Keep the affected area clean and covered.",
+    "Avoid scratching or touching the sores.",
+    "Wash hands frequently.",
+    "Avoid close contact with others until the infection clears."
+  ]
+}
+}
